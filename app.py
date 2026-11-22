@@ -1,1 +1,1 @@
-Hello, Github Actions!
+print("Hello, GitHub Actions!")
